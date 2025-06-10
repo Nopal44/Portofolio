@@ -75,10 +75,8 @@
 
 <section class="about" id="kontak">
     <h2>Kontak</h2>
-    <p>Email saya : nareva@gmail.com</p>
-    <p>Instagram  : @allbuss</p>
-    <p>Tiktok         : @Nrv Allbusss ⚡
-    <p>Kontak       : 081320750320
+    <p>Email saya : Naufal.A@gmail.com</p>
+    <p>Kontak       : +6285225901999
 </section>
 
 <footer>
